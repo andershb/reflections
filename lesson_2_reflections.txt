@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    I suppose init simply makes the folder(s) into a repository, with all the bells and whistles 
+    needed to manage the repository. For instance i probably creates a database for all the 
+    commits, i.e. which files it contains, and the contents of all the files and changes. All 
+    this will be neccesary to keep account of all the changes, and to checkout the right versions
+    of the files.
+
+How is the staging area different from the working directory and the repository? What value do you 
+think it offers?
+
+    The staging area is different to the working directory in being a part of the repository.
+    The working directory is just a container for the repository files, but all files in the wd do 
+    not need to be part of the repository. The staging area is to be considered a list of files 
+    that belong to the repository, and that the git commands work on.
+    
