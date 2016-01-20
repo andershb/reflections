@@ -14,3 +14,9 @@ think it offers?
     not need to be part of the repository. The staging area is to be considered a list of files 
     that belong to the repository, and that the git commands work on.
     
+How can you use the staging area to make sure you have one commit per logical change?
+
+    It is possible to check differences between files in working directory and staging area, and
+    also between staging area and repository. This way you can check out what changes are made to
+    the files before you commit. 
+    
