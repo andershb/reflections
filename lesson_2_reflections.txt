@@ -20,3 +20,11 @@ How can you use the staging area to make sure you have one commit per logical ch
     also between staging area and repository. This way you can check out what changes are made to
     the files before you commit. 
     
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+    Branches would help when you need to develop different versions of your project, either
+    for testing out new features/doing fundamental experimental changes or different versions
+    for different customers/markets. I can imagine using branches when developing full and limited
+    versions of software, or free vs. paid apps, with or without ads, different functionality etc.
+
