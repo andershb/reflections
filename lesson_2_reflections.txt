@@ -48,3 +48,12 @@ What is the result of merging two branches together? Why do we represent it in t
     that are new in one branch, and do not exist from before, are kept.
     (Adding line to test commit with new "git config --global core.editor..." settings )
     
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pros: *Saves a lot of time and hassle
+          *Keeps everything inside the repository, with access to all og Git's tools
+          *The computer will not miss anything, as you probably will. 
+          
+    Cons: *Not good at resolving conflicts. Must often do manual operations all the same
+          *Manual merge gives you full control of the process
+          
