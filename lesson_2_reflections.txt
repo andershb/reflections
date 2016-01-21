@@ -33,8 +33,17 @@ How do the diagrams help you visualize the branch structure?
     It helps visualize the branch structure, silly! ;-P
     Leading question?
     But OK. For me it's important to know that the commits are connected as a graph/linked list 
-    data type. This is something I know and  have worked with, for about 15 years ago. The 
+    data type. This is something I know and  have worked with... about 15 years ago. The 
     visualization of what happens when you checkout a commit, makes me more confident about what 
     actually is happening inside the repository, and makes me understand what I actually did a few
     exercises ago, when I was totally green on this checkout-thing.
+    
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    The result of merging two branches is that changes in both branches ar merged together so that
+    changes in both branches are included in the same branch, and this branch becomes the new master.
+    The way this is done, is that Git evaluates changes made in both branches AND the last common
+    commit (before the branching). If lines that exist inn the mitual commit, are deleted in one
+    of the branches, they get deleted in the merge. All lines that exis in both are kept, and lines 
+    that are new in one branch, and do not exist from before, are kept.
     
