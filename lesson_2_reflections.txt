@@ -46,4 +46,5 @@ What is the result of merging two branches together? Why do we represent it in t
     commit (before the branching). If lines that exist inn the mitual commit, are deleted in one
     of the branches, they get deleted in the merge. All lines that exis in both are kept, and lines 
     that are new in one branch, and do not exist from before, are kept.
+    (Adding line to test commit with new "git config --global core.editor..." settings )
     
