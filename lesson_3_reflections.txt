@@ -18,3 +18,14 @@ up-to-date with your remote repository?
     repository changes that you really don't want. Let's say you are working remotely and your code 
     is comitted but isn't tested yet. An automatic pull will break the code of the branch if it 
     happens at the wrong time.
+    
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+    Forks exist only on GitHub, and it is a copy of a repository
+    Clones exist locally - you can clone another local repository on your computer, or , most often, 
+    a clone is a local copy of a remote repository on GitHub.
+    Common for clones and forks is that they are copies of complete repositories.
+    A branch is a part of a repository, and can exist both locally and on GitHub. A clone can 
+    contain one ore more branches.
+
