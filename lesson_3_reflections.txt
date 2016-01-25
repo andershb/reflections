@@ -29,3 +29,8 @@ When would you use one instead of another?
     A branch is a part of a repository, and can exist both locally and on GitHub. A clone can 
     contain one ore more branches.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    I'm not quite sure what the question implies. "Last known state"? I am not mentally persent at 
+    the moment. I will have to think about this for a wbile, and write my answer a bit later.
+
