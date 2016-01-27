@@ -34,3 +34,14 @@ What is the benefit of having a copy of the last known state of the remote store
     I'm not quite sure what the question implies. "Last known state"? I am not mentally persent at 
     the moment. I will have to think about this for a wbile, and write my answer a bit later.
 
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+    I haven't got much experience in collaborating, so it's hard to say, apart from "It would be 
+    hard". I guess that collaboration without Git/GitHub or similar software would be hard, un-
+    less the person(s) you are collaborating with are sitting in the same room, and you would make 
+    sure that you did not work on the same piece of code simultaneously. But I can not say whether 
+    similar types of software would have benefits over Git/GitHub since I don't have any experience
+    with such software. 
+
+    
